@@ -12,18 +12,17 @@ Sample Datasets
 "5","1st",1,"Allison, Master Hudson Trevor", 0.9167,"Southampton","Montreal, PQ / Chesterville, ON","C22","","11","male"
 
 Format of Data
-
-"row.names" – Row number
-"pclass" - PClass
-"survived" – Survived, 0-died, 1-survived
-"name" – passenger-name
-"age" – passenger-age
-"embarked" – Onboard-location
-"home.dest" – Destination
-"room" – Room
-"ticket" – Ticket
-"boat" – Boat
-"sex" – Sex
+1.	"row.names" – Row number
+2.	"pclass" - PClass
+3.	"survived" – Survived, 0-died, 1-survived
+4.	"name" – passenger-name
+5.	"age" – passenger-age
+6.	"embarked" – Onboard-location
+7.	"home.dest" – Destination
+8.	"room" – Room
+9.	"ticket" – Ticket
+10.	"boat" – Boat
+11.	"sex" – Sex
 
 Problem Statements
 1. Find the average age of people who died and who survived
