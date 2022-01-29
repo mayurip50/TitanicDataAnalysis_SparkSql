@@ -1,9 +1,11 @@
 # TitanicDataAnalysis_SparkSql
 Objective
+
 Titanic was one of the biggest disasters in the history of mankind, which happened due to natural events and human mistakes. The objective is
 to analyze Titanic data sets and generate various insights.
 
 Sample Datasets
+
 "row.names","pclass","survived","name","age","embarked","home.dest","room","ticket","boat","sex"
 "1","1st",1,"Allen, Miss Elisabeth Walton",29.0000,"Southampton","St Louis, MO","B-5","24160 L221","2","female"
 "2","1st",0,"Allison, Miss Helen Loraine", 2.0000,"Southampton","Montreal, PQ / Chesterville, ON","C26","","","female"
